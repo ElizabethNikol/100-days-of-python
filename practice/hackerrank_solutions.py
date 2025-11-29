@@ -19,3 +19,26 @@ def arithmetic_operators(a, b):
 def division(a, b):
     print(a // b)
     print(a / b)
+
+
+# Problem 4: Loops
+
+for i in range(0, n):
+    print(i**2)
+
+# Problem 5: Find the Runner-Up Score!
+if __name__ == '__main__':
+    n = int(input())
+    arr = list(map(int, input().split()))
+    
+    first_max = -100
+    for i in range(n):
+        if arr[i] > first_max:
+            first_max = arr[i]
+    
+    second_max = -100
+    for i in range(n):
+        if arr[i] > second_max and arr[i] < first_max:
+            second_max = arr[i]
+    
+    print(second_max)
