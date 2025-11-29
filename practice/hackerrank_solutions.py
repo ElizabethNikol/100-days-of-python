@@ -22,7 +22,6 @@ def division(a, b):
 
 
 # Problem 4: Loops
-
 for i in range(0, n):
     print(i**2)
 
