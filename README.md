@@ -11,11 +11,14 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - ✅ Day 7: Hangman Game
 - ✅ Day 8: Function Parameters & Caesar Cipher
 - ✅ Day 9: Dictionaries, Nesting & Secret Auction
-- ⬜ Day 10: Functions with Outputs & Calculator
-- ⬜ Day 11: Blackjack Capstone Project
+- ✅ Day 10: Functions with Outputs & Calculator
+- ✅ Day 11: Blackjack Capstone Project
 - ⬜ Day 12: Scope & Number Guessing Game
+- ⬜ Day 13: Debugging - How to Find and Fix Errors
+- ⬜ Day 14: Higher Lower Game Project
+- ⬜ Day 15: Coffee Machine Project
 
-## 🎯 Projects Completed (9 Total!)
+## 🎯 Projects Completed (11 Total!)
 
 ### Week 1 Projects:
 1. **Band Name Generator** - String concatenation and input
@@ -29,6 +32,8 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 7. **Hangman Game** - Complex game logic with lists and loops
 8. **Caesar Cipher** - Text encryption using modulo operator
 9. **Secret Auction** - Dictionary manipulation and finding max values
+10. **Calculator** - Functions with outputs, recursion, and operations dictionary
+11. **Blackjack** - First capstone! Complete card game with complex logic
 
 ## 📁 Repository Structure
 ```
@@ -56,6 +61,12 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 ├── day09/
 │   ├── secret_auction.py
 │   └── art.py
+├── day10/
+│   ├── calculator.py
+│   └── art.py
+├── day11/
+│   ├── blackjack.py
+│   └── art.py
 └── practice/
     └── hackerrank_solutions.py
 ```
@@ -70,32 +81,45 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - For/While loops, Range function
 - Functions, Parameters, Arguments
 
-### Intermediate (Days 7-9):
+### Intermediate (Days 7-11):
 - Importing modules
 - Complex program flow
 - Game development
 - Text encryption algorithms
-- **Dictionaries & Key-Value pairs** ✨ NEW!
-- **Nesting (Lists in Dictionaries)** ✨ NEW!
-- **Finding max/min in dictionaries** ✨ NEW!
+- Dictionaries & Key-Value pairs
+- Nesting (Lists in Dictionaries)
+- Functions with return values
+- Recursion
+- **Game state management** ✨ NEW!
+- **Complex conditional logic** ✨ NEW!
+- **Score calculation algorithms** ✨ NEW!
 
 ## 📊 Stats
-- **Days Completed:** 9/100 (9% ✅)
-- **Projects Built:** 9
-- **Lines of Code:** ~1200+
-- **Concepts Learned:** 25+
+- **Days Completed:** 11/100 (11% ✅)
+- **Projects Built:** 11
+- **Lines of Code:** ~1800+
+- **Concepts Learned:** 35+
+- **Games Created:** 4 (Treasure Island, Rock Paper Scissors, Hangman, Blackjack)
+
+## 🏆 Milestones
+- ✅ 10% Complete - First milestone reached!
+- ✅ First Capstone Project - Blackjack completed!
+- ⬜ 25% - Day 25
+- ⬜ 50% - Day 50
+- ⬜ 100% - Day 100
 
 ## 📅 Timeline
 - **Started:** November 27, 2024
-- **Current Day:** 9/100
-- **Current Date:** December 1, 2024
-- **Average Pace:** 2+ days per day 🚀
+- **Current Day:** 11/100
+- **Current Date:** December 3, 2024
+- **Average Pace:** 2.75 days per day 🚀
 - **Estimated Completion:** January 2025 (at this pace!)
 
 ## 🎯 Next Goals
-- Day 10: Calculator with functions that return values
-- Day 11: Blackjack game (First capstone project!)
-- Day 12: Scope and namespaces
+- Day 12: Scope and Number Guessing Game
+- Day 13: Debugging techniques
+- Day 14: Higher Lower game
+- Day 15: Coffee Machine project
 
 ---
 *Elizabeth Nikolaev - Computer Science Student*
