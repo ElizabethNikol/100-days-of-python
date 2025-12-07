@@ -13,12 +13,14 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - ✅ Day 9: Dictionaries, Nesting & Secret Auction
 - ✅ Day 10: Functions with Outputs & Calculator
 - ✅ Day 11: Blackjack Capstone Project
-- ⬜ Day 12: Scope & Number Guessing Game
-- ⬜ Day 13: Debugging - How to Find and Fix Errors
-- ⬜ Day 14: Higher Lower Game Project
+- ✅ Day 12: Scope & Number Guessing Game
+- ✅ Day 13: Debugging - How to Find and Fix Errors
+- ✅ Day 14: Higher Lower Game Project
 - ⬜ Day 15: Coffee Machine Project
+- ⬜ Day 16: Object Oriented Programming
+- ⬜ Day 17: The Quiz Project & OOP
 
-## 🎯 Projects Completed (11 Total!)
+## 🎯 Projects Completed (14 Total!)
 
 ### Week 1 Projects:
 1. **Band Name Generator** - String concatenation and input
@@ -34,6 +36,9 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 9. **Secret Auction** - Dictionary manipulation and finding max values
 10. **Calculator** - Functions with outputs, recursion, and operations dictionary
 11. **Blackjack** - First capstone! Complete card game with complex logic
+12. **Number Guessing Game** - Scope, constants, and difficulty levels
+13. **Debugging Practice** - Fixed various code issues and learned debugging techniques
+14. **Higher Lower Game** - Instagram follower comparison game with data handling
 
 ## 📁 Repository Structure
 ```
@@ -67,6 +72,15 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 ├── day11/
 │   ├── blackjack.py
 │   └── art.py
+├── day12/
+│   ├── number_guessing_game.py
+│   └── art.py
+├── day13/
+│   └── debugging_notes.py
+├── day14/
+│   ├── higher_lower.py
+│   ├── game_data.py
+│   └── art.py
 └── practice/
     └── hackerrank_solutions.py
 ```
@@ -81,7 +95,7 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - For/While loops, Range function
 - Functions, Parameters, Arguments
 
-### Intermediate (Days 7-11):
+### Intermediate (Days 7-14):
 - Importing modules
 - Complex program flow
 - Game development
@@ -90,36 +104,40 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - Nesting (Lists in Dictionaries)
 - Functions with return values
 - Recursion
-- **Game state management** ✨ NEW!
-- **Complex conditional logic** ✨ NEW!
-- **Score calculation algorithms** ✨ NEW!
+- Game state management
+- Complex conditional logic
+- **Local vs Global Scope** ✨
+- **Debugging techniques** ✨
+- **Constants and naming conventions** ✨
+- **Data structures for games** ✨
 
 ## 📊 Stats
-- **Days Completed:** 11/100 (11% ✅)
-- **Projects Built:** 11
-- **Lines of Code:** ~1800+
-- **Concepts Learned:** 35+
-- **Games Created:** 4 (Treasure Island, Rock Paper Scissors, Hangman, Blackjack)
+- **Days Completed:** 14/100 (14% ✅)
+- **Projects Built:** 14
+- **Lines of Code:** ~2200+
+- **Concepts Learned:** 40+
+- **Games Created:** 6 (Treasure Island, Rock Paper Scissors, Hangman, Blackjack, Number Guessing, Higher Lower)
 
 ## 🏆 Milestones
 - ✅ 10% Complete - First milestone reached!
 - ✅ First Capstone Project - Blackjack completed!
+- ⬜ 15% - Day 15 (Next milestone!)
 - ⬜ 25% - Day 25
 - ⬜ 50% - Day 50
 - ⬜ 100% - Day 100
 
 ## 📅 Timeline
 - **Started:** November 27, 2024
-- **Current Day:** 11/100
-- **Current Date:** December 3, 2024
-- **Average Pace:** 2.75 days per day 🚀
-- **Estimated Completion:** January 2025 (at this pace!)
+- **Current Day:** 14/100
+- **Current Date:** December 7, 2024
+- **Average Pace:** 2.8 days per day 🚀
+- **Estimated Completion:** Mid-January 2025 (at this pace!)
 
 ## 🎯 Next Goals
-- Day 12: Scope and Number Guessing Game
-- Day 13: Debugging techniques
-- Day 14: Higher Lower game
 - Day 15: Coffee Machine project
+- Day 16: Object Oriented Programming introduction
+- Day 17: Quiz project with OOP
+- Day 20-21: Snake Game!
 
 ---
 *Elizabeth Nikolaev - Computer Science Student*
