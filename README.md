@@ -5,7 +5,8 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - ✅ Day 1-5: Python Basics (Variables, Data Types, Control Flow, Lists, Loops)
 - ✅ Day 6-10: Functions & Logic (Functions, Parameters, Dictionaries, Return Values)
 - ✅ Day 11-15: Complex Projects (Blackjack, Scope, Debugging, Games, Coffee Machine)
-- ⬜ Day 16-20: OOP & GUI
+- ✅ Day 16: Object Oriented Programming
+- ⬜ Day 17-20: OOP & GUI
 - ⬜ Day 21-30: Intermediate Projects
 - ⬜ Day 31-100: Advanced Topics
 
@@ -26,6 +27,7 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 13. **Debugging Practice** - Error fixing
 14. **Higher Lower Game** - Data handling
 15. **Coffee Machine** - Resource management
+16. **OOP Coffee Machine** - Coffee machine refactored with classes and OOP principles
 
 ## 📁 Key Skills Learned
 - Python fundamentals (variables, data types, functions)
@@ -36,10 +38,10 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - Scope & resource management
 
 ## 📊 Stats
-- **Completed:** 15/100 days (15% ✅)
-- **Projects:** 15
+- **Completed:** 16/100 days (16% ✅)
+- **Projects:** 16
 - **Started:** November 27, 2024
-- **Current:** December 9, 2024
+- **Current:** December 10, 2024
 - **Pace:** ~3 days per day 🚀
 
 ## 🏆 Milestones
