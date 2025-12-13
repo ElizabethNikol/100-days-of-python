@@ -5,13 +5,12 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - ✅ Day 1-5: Python Basics (Variables, Data Types, Control Flow, Lists, Loops)
 - ✅ Day 6-10: Functions & Logic (Functions, Parameters, Dictionaries, Return Values)
 - ✅ Day 11-15: Complex Projects (Blackjack, Scope, Debugging, Games, Coffee Machine)
-- ✅ Day 16: Object Oriented Programming
-- ⬜ Day 17-20: OOP & GUI
+- ✅ Day 16-17: OOP Introduction (Classes, Objects, Methods)
+- ⬜ Day 18-20: GUI & Graphics
 - ⬜ Day 21-30: Intermediate Projects
 - ⬜ Day 31-100: Advanced Topics
 
-## 🎯 Projects Completed (15 Total!)
-
+## 🎯 Projects Completed (17 Total!)
 1. **Band Name Generator** - Basic input/output
 2. **Tip Calculator** - Math operations
 3. **Treasure Island** - Conditionals
@@ -27,7 +26,8 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 13. **Debugging Practice** - Error fixing
 14. **Higher Lower Game** - Data handling
 15. **Coffee Machine** - Resource management
-16. **OOP Coffee Machine** - Coffee machine refactored with classes and OOP principles
+16. **OOP Coffee Machine** - Refactored with classes
+17. **Quiz Game** - OOP with multiple classes
 
 ## 📁 Key Skills Learned
 - Python fundamentals (variables, data types, functions)
@@ -36,10 +36,11 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - Game development & algorithms
 - Debugging & error handling
 - Scope & resource management
+- **Object-Oriented Programming (classes, methods, attributes)** ✨ NEW!
 
 ## 📊 Stats
-- **Completed:** 16/100 days (16% ✅)
-- **Projects:** 16
+- **Completed:** 17/100 days (17% ✅)
+- **Projects:** 17
 - **Started:** November 27, 2024
 - **Current:** December 10, 2024
 - **Pace:** ~3 days per day 🚀
@@ -48,6 +49,7 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - ✅ 10% Complete
 - ✅ First Capstone (Blackjack)
 - ✅ 15% Complete
+- ⬜ 20% - Day 20
 - ⬜ 25% - Day 25
 - ⬜ 50% - Day 50
 - ⬜ 100% - Day 100
