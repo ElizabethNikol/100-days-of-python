@@ -7,7 +7,8 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - ✅ Day 11-15: Complex Projects (Blackjack, Scope, Debugging, Games, Coffee Machine)
 - ✅ Day 16-17: OOP Introduction (Classes, Objects, Methods)
 - ✅ Day 18: Turtle Graphics & GUI
-- ⬜ Day 19-20: GUI & Graphics
+- ✅ Day 19: Event Listeners & State
+- ⬜ Day 20: GUI & Graphics
 - ⬜ Day 21-30: Intermediate Projects
 - ⬜ Day 31-100: Advanced Topics
 
@@ -30,6 +31,7 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 16. **OOP Coffee Machine** - Refactored with classes
 17. **Quiz Game** - OOP with multiple classes
 18. **Hirst Painting** - Turtle graphics, GUI, color extraction
+19. **Turtle Race** - Event listeners, state management, multiple instances
 
 ## 📁 Key Skills Learned
 - Python fundamentals (variables, data types, functions)
