@@ -31,6 +31,7 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 18. **Hirst Painting** - Turtle graphics, GUI, color extraction
 19. **Turtle Race** - Event listeners, state management
 20. **Snake Game (Part 1)** - Animation, keyboard control, OOP game design
+21. **Snake Game (Complete)** - Full game with collision detection, scoring, and inheritance
 
 ## 📁 Key Skills Learned
 - Python fundamentals (variables, data types, functions)
@@ -44,10 +45,10 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - Game animation & state management
 
 ## 📊 Stats
-- **Completed:** 20/100 days (20% ✅)
-- **Projects:** 20
-- **Started:** November 27, 2024
-- **Current:** December 17, 2024
+- **Completed:** 21/100 days (21% ✅)
+- **Projects:** 21
+- **Started:** November 27, 2025
+- **Current:** December 18, 2025
 
 ## 🏆 Milestones
 - ✅ 10% Complete
