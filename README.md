@@ -32,6 +32,8 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 19. **Turtle Race** - Event listeners, state management
 20. **Snake Game (Part 1)** - Animation, keyboard control, OOP game design
 21. **Snake Game (Complete)** - Full game with collision detection, scoring, and inheritance
+22. **Pong Game** - Classic arcade game, collision detection, game physics
+
 
 ## 📁 Key Skills Learned
 - Python fundamentals (variables, data types, functions)
@@ -45,10 +47,10 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 - Game animation & state management
 
 ## 📊 Stats
-- **Completed:** 21/100 days (21% ✅)
-- **Projects:** 21
+- **Completed:** 22/100 days (22% ✅)
+- **Projects:** 22
 - **Started:** November 27, 2025
-- **Current:** December 18, 2025
+- **Current:** December 20, 2025
 
 ## 🏆 Milestones
 - ✅ 10% Complete
