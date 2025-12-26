@@ -33,15 +33,16 @@ Learning Python with Dr. Angela Yu's course on Udemy!
 20. **Snake Game** - Full game with collision detection & scoring
 21. **Pong Game** - Classic arcade game, game physics
 22. **Turtle Crossing** - Frogger-style game, difficulty progression
+23. **Snake Game + High Score** - File I/O, data persistence
+24. **Mail Merge** - File manipulation, directory paths, string replacement
 
 ## 🎮 Games Created: 8
 Snake, Pong, Turtle Crossing, Blackjack, Hangman, Number Guessing, Higher Lower, Turtle Race
 
 ## 📊 Stats
-- **Completed:** 23/100 days (23% ✅)
-- **Projects:** 22
+- **Completed:** 24/100 days (24% ✅)
+- **Projects:** 23
 - **Started:** November 27, 2025
-- **Current:** December 20, 2025
 - **Duration:** 23 days
 - **Pace:** ~1 lesson per day
 
